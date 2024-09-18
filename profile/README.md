@@ -3,7 +3,7 @@
 
 <p align="center">
     <a href="https://statikk.com#gh-dark-mode-only" target="_blank">
-        <img width="300" src="https://github.com/user-attachments/assets/ef09f1d9-2709-4144-9d7d-e722b2fe26e5" alt="Statikk Logo">
+        <img width="250" src="https://github.com/user-attachments/assets/ef09f1d9-2709-4144-9d7d-e722b2fe26e5" alt="Statikk Logo">
     </a>
 </p>
 
